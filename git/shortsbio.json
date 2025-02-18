@@ -1,0 +1,34 @@
+{
+  "red": {
+    "title": "Red Screen Shorts",
+    "description": "This is a red screen shorts video. Perfect for focus and relaxation."
+  },
+  "green": {
+    "title": "Green Screen Shorts",
+    "description": "This is a green screen shorts video. Perfect for focus and relaxation."
+  },
+  "yellow": {
+    "title": "Yellow Screen Shorts",
+    "description": "This is a yellow screen shorts video. Perfect for focus and relaxation."
+  },
+  "blue": {
+    "title": "Blue Screen Shorts",
+    "description": "This is a blue screen shorts video. Perfect for focus and relaxation."
+  },
+  "white": {
+    "title": "White Screen Shorts",
+    "description": "This is a white screen shorts video. Perfect for focus and relaxation."
+  },
+  "black": {
+    "title": "Black Screen Shorts",
+    "description": "This is a black screen shorts video. Perfect for focus and relaxation."
+  },
+  "gray": {
+    "title": "Gray Screen Shorts",
+    "description": "This is a gray screen shorts video. Perfect for focus and relaxation."
+  },
+  "pink": {
+    "title": "Pink Screen Shorts",
+    "description": "This is a pink screen shorts video. Perfect for focus and relaxation."
+  }
+}
